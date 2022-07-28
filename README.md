@@ -10,8 +10,8 @@ Neste curso da [Dell](http://leadfortaleza.com.br/dal/nossos-cursos/) aprofundam
 - 1.1 - Introdução à programação funcional
 - 1.2 - Funções da biblioteca padrão
 - 1.3 - Trabalhando com datas
-- 2 - Introdução a Bibliotecas Matemáticas
-- 3 - Introdução a Numpy
+- 2.1 - Introdução a Bibliotecas Matemáticas
+- 3.1 - Introdução a Numpy
 - 4.1 - Guardando na memória
 - 4.2 - Serialização de dados
 
