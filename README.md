@@ -3,7 +3,7 @@
 
 ### 📚  Descrição
 
-Neste curso da [Dell](http://leadfortaleza.com.br/dal/nossos-cursos/) aprofundamos nossos conhecimentos na linguagem de programação Python direcionados para Machine Learning. 
+No curso da [Dell](http://leadfortaleza.com.br/dal/nossos-cursos/) aprofundamos nossos conhecimentos na linguagem de programação Python direcionados para Machine Learning. 
 
 ### 🖥️  Aulas
 
