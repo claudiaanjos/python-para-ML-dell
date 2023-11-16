@@ -1,5 +1,8 @@
 ![](https://uploaddeimagens.com.br/images/003/523/213/original/Sem_t%C3%ADtulo.png?1636151498)
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
 
 ### 📚  Descrição
 
